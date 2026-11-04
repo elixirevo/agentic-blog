@@ -10,6 +10,16 @@
       "version": "supertonic3-v1",
       "previewPath": "content/audio/e72d144a156eb9616f610de6295f6a5fb8da5c9137fca10c5e3e59c94b767990.mp3",
       "fullPath": "content/audio/f75dce06cfc8edea68fddc47e71c8bb42a09b387a10e823b4d717794614c1e0d.mp3"
+    },
+    {
+      "postId": "3e6e1b55-028e-4502-b857-4a4db47e1822",
+      "locale": "en",
+      "textHash": "822b51ba1635c829abb6a7570216b5bbbf8c863f9966ab107787a754a4787383",
+      "fullHash": "4f551be136e1a388626861e4fb43a29d057daeac65bacd8ad0ae7575722add3c",
+      "voice": "F1",
+      "version": "supertonic3-v1",
+      "previewPath": "content/audio/b7807c8f3d621598951b739150afa5b5556fa4ee08385e46b6ccb75dfeb2aa94.mp3",
+      "fullPath": "content/audio/ac3a6c223f07b52c1a1a01023b68a2cbc8fee59e785c9e771ed693616f0d9a58.mp3"
     }
   ]
 }
