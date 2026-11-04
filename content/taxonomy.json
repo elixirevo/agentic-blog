@@ -1,6 +1,57 @@
 {
+  "categories": [
+    {
+      "aliases": [],
+      "id": "category-48197dfe1f0fac4be1c9079a",
+      "labels": {
+        "en": "Market Analysis",
+        "ko": "시장 분석"
+      },
+      "source": "시장 분석"
+    }
+  ],
   "schemaVersion": 1,
   "sourceLocale": "ko",
-  "categories": [],
-  "tags": []
+  "tags": [
+    {
+      "aliases": [
+        "BTC"
+      ],
+      "id": "tag-f386c9a9402b1adcfccd9d7f",
+      "labels": {
+        "en": "Bitcoin",
+        "ko": "비트코인"
+      },
+      "source": "비트코인"
+    },
+    {
+      "aliases": [
+        "ETH"
+      ],
+      "id": "tag-46f15f1dbcafc4e74402625e",
+      "labels": {
+        "en": "Ethereum",
+        "ko": "이더리움"
+      },
+      "source": "이더리움"
+    },
+    {
+      "aliases": [],
+      "id": "tag-3af1a9ec56f67d962a96ba08",
+      "labels": {
+        "en": "US Midterms",
+        "ko": "미국 중간선거"
+      },
+      "source": "미국 중간선거"
+    },
+    {
+      "aliases": [],
+      "id": "tag-58c35f0cffaa25109dec24b3",
+      "labels": {
+        "en": "ETF",
+        "ko": "ETF"
+      },
+      "source": "ETF"
+    }
+  ]
 }
