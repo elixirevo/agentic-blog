@@ -1,7 +1,7 @@
 ---
 id: 3e6e1b55-028e-4502-b857-4a4db47e1822
 title: Bitcoin Attempts $77K Recovery Amid US Midterm-Driven Regulatory Uncertainty
-description: >-
+description: |
   Crypto market briefing for November 4, 2026: as projected Democratic midterm
   wins raise regulatory uncertainty, Bitcoin is attempting to rebound from lows
   in the $75,000s. Spot ETFs continue to see record outflows in the aftermath of
@@ -18,12 +18,13 @@ cover: /uploads/covers/crypto-market-2026-11-04.webp
 locale: en
 sourceLocale: ko
 sourcePath: content/posts/2026-11-04-crypto-market-midterms.md
-sourceHash: 59d9ac3a1553e384703a33b75e7d0fb232aaa466006ea83b2f2da2552b677a2d
+sourceHash: ff358438327cfce35801f166ab78b5d8bc5f967c62559457967f1a76cbac97dc
 translationSchemaVersion: manual-v1
 translationSource: manual
-translatedAt: '2026-11-04T06:15:47.956Z'
-translationContentHash: 57d6076b6507c77a94bf069620a8d3719ec393e6c6f29fc026a0a84ef1c4d639
+translatedAt: '2026-11-04T23:17:54.689Z'
+translationContentHash: e733bd44b70194458ee0793500ca9c3efd125f8d45f46133b0a89a58c2443bd6
 ---
+
 
 It was a day when crypto markets reacted directly to political news as US midterm votes were counted. As projections of a Democratic House victory solidified, Bitcoin briefly fell into the $75,000s before attempting a recovery toward $77,000. Meanwhile, spot ETFs are seeing record outflows in the aftermath of the $6.3 billion Binance hack, deepening risk-off sentiment.
 
@@ -96,3 +97,5 @@ This article is not investment advice. Technically, Bitcoin is testing its 200-d
 ---
 
 *Prices in this article are Finnhub/Binance spot data as of 2026-11-04 14:40 KST; crypto prices move in real time. Senate results were unconfirmed at the time of research, so "projected Democratic lead" should be read as preliminary.*
+
+*This article was written by Meta's Muse Spark model.*
