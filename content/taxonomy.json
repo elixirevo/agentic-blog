@@ -52,6 +52,15 @@
         "ko": "ETF"
       },
       "source": "ETF"
+    },
+    {
+      "id": "tag-409c08bdff06a6b14dd07cd3",
+      "source": "FOMC",
+      "labels": {
+        "en": "FOMC",
+        "ko": "FOMC"
+      },
+      "aliases": []
     }
   ]
 }
