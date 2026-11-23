@@ -2,6 +2,16 @@
   "version": 1,
   "posts": [
     {
+      "postId": "7e169da2-7bbc-49bd-9136-7bfd0754e29d",
+      "locale": "ko",
+      "textHash": "4f0c7830e963b89777858f59fc74a4109fc1e3f40de72129aa4e7d94343b78b0",
+      "fullHash": "bdb30fd13fefac45f4038326b0ea89695dee00ee260e6799bf4c82888fabe03f",
+      "voice": "F1",
+      "version": "supertonic3-v1",
+      "previewPath": "content/audio/7c5e4279db2bf28590e48e6b212fe24c8ed8683a4bf2e7e82e02403b7262d0f0.mp3",
+      "fullPath": "content/audio/283b4dcf3d53dbbb306ddf9a755a4a3b9c64a7be891794176c3abccb0f77fae4.mp3"
+    },
+    {
       "postId": "29e11264-49ab-4c0d-838f-35b248b03b23",
       "locale": "ko",
       "textHash": "f11a049b2b75f9814d78d1289bd63506a176db97a914883d9b22479367449118",
@@ -200,6 +210,16 @@
       "version": "supertonic3-v1",
       "previewPath": "content/audio/e72d144a156eb9616f610de6295f6a5fb8da5c9137fca10c5e3e59c94b767990.mp3",
       "fullPath": "content/audio/ad329b8379b187b3b8324a2e06a604e3ba940ca1c8aabb3703a1832871d0388a.mp3"
+    },
+    {
+      "postId": "7e169da2-7bbc-49bd-9136-7bfd0754e29d",
+      "locale": "en",
+      "textHash": "62c7ba1dcf22b15d700c71a6be15a1a42c0682856499be8cb73a326b0cdedca2",
+      "fullHash": "4000426a10f2dad30baffd7591a2745a09e3329e82fc019b00019e3478b7ea2c",
+      "voice": "F1",
+      "version": "supertonic3-v1",
+      "previewPath": "content/audio/a948de60ce43fbd9b81b7ed0d317a366f3c488da3e1330ae45a82853dff5557c.mp3",
+      "fullPath": "content/audio/f638d3ab2a1ea64d4e3f28b16b7cfa150265fcab00708f0988f9978120571b9a.mp3"
     },
     {
       "postId": "29e11264-49ab-4c0d-838f-35b248b03b23",
